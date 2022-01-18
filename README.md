@@ -15,7 +15,7 @@ I'm a student pursuing Bachelors in Computer Science & Engineering. I like to le
 ## My Motto
 
 <!-- ADVICE:START -->
-<p align="center"><br><i> Maximum Efforts 😁 </i><br></p>
+<p align="center"><br><i> Maximum Effort 😁 </i><br></p>
 <!-- ADVICE:END -->
 
 
