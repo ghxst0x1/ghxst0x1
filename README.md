@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences ["There is none"](https://github.com/holyghxst)
 
-- ⚡ Fun fact **"I'm Single,LOL"**
+- ⚡ Fun fact **"I'd rather break and rebuild than build anew"**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
