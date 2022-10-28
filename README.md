@@ -51,7 +51,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=holyghxst&layout=compact&theme=gotham" alt="holyghxst" />
 </div>
 
-##Connect with me:
+##Connect with me
 <p align="center">
 <a href="https://instagram.com/kn1ghtblood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kn1ghtblood" height="30" width="40" /></a>
 <a href="https://github.com/HoLyGhxsT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kn1ghtblood" height="30" width="40" /></a>
