@@ -20,6 +20,7 @@
 <br/>
 
 ##Languages and Tools:
+
 <div align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -43,7 +44,7 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 </div>
 
-##Github Stats:
+<h3>Github Stats:</h3>
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=holyghxst&show_icons=true&locale=en&layout=compact&theme=gotham" alt="holyghxst" />
 
@@ -51,7 +52,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=holyghxst&layout=compact&theme=gotham" alt="holyghxst" />
 </div>
 
-##Connect with me
+<h3>Connect with me:</h3>
 <p align="center">
 <a href="https://instagram.com/kn1ghtblood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kn1ghtblood" height="30" width="40" /></a>
 <a href="https://github.com/HoLyGhxsT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kn1ghtblood" height="30" width="40" /></a>
