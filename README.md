@@ -8,17 +8,18 @@
 </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-- 🔭 I’m currently working on **"My Skills"**
+- 🔭 I’m currently working on **" My Skills "**
 
-- 💬 Ask me about **"ME"**
+- 💬 Ask me about **" ME "**
 
-- 📫 How to reach me **"You shouldn't"**
+- 📫 How to reach me **" You shouldn't "**
 
-- 📄 Know about my experiences ["There is none"](https://github.com/holyghxst)
+- 📄 Know about my experiences [" There is none "](https://github.com/holyghxst)
 
-- ⚡ Fun fact **"I'd rather break and rebuild than build anew"**
+- ⚡ Fun fact **" I'd rather break and rebuild than build anew "**
+<br/>
 
-<h3 align="center">Languages and Tools:</h3>
+###Languages and Tools:
 <div align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -42,14 +43,15 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 </div>
 
-<h3 align="center">Github Stats:</h3>
+###Github Stats:
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=holyghxst&show_icons=true&locale=en&layout=compact&theme=gotham" alt="holyghxst" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=holyghxst&show_icons=true&locale=en&layout=compact&theme=gotham" alt="holyghxst" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=holyghxst&layout=compact&theme=gotham" alt="holyghxst" />
 </div>
-<h3 align="center">Connect with me:</h3>
+
+###Connect with me:
 <p align="center">
 <a href="https://instagram.com/kn1ghtblood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kn1ghtblood" height="30" width="40" /></a>
 <a href="https://github.com/HoLyGhxsT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kn1ghtblood" height="30" width="40" /></a>
