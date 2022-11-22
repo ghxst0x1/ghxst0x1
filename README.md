@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=A+Curious+Cyber-Security+Enthusiast;I+Love+Learning+New+Technologies;And+Play+Around+With+Them">
   </a>
 </h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 - 🔭 I’m currently working on **" My Skills "**
 
@@ -45,10 +45,16 @@
 
 ## Github Stats:
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=holyghxst&show_icons=true&locale=en&layout=compact&theme=gotham" alt="holyghxst" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=holyghxst&show_icons=true&locale=en&layout=compact&theme=gotham" alt="holyghxst" /> <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=holyghxst&show_icons=true&locale=en&layout=compact&theme=gotham" alt="holyghxst" />
+<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=holyghxst&layout=compact&theme=gotham" alt="holyghxst" />
+</div>
+
+## Achievements:
+<div align="center">
+<img align="center" src="https://leetcode-stats-six.vercel.app/?username=HoLyGhxsT&theme=dark"  />
 </div>
 
 ## Connect with me:
