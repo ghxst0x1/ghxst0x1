@@ -60,7 +60,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=holyghxst&layout=compact&theme=gotham" alt="holyghxst" />
 </div>
 
-## LeetCode Achievements:
+## LeetCode:
 <div align="center">
 <img align="center" src="https://leetcode-stats-six.vercel.app/?username=HoLyGhxsT&theme=dark"  />
 </div>
