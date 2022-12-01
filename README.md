@@ -8,7 +8,7 @@
   </a> -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D22730&center=true&width=435&lines=A+Curious+Cyber-Security+Enthusiast;I+Love+Learning+New+Technologies+;And+Play+Around+With+Them" alt="Typing SVG" /></a>
 </p>
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 - 🔭 I’m currently working on **" My Skills "**
 
