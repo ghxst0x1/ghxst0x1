@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **" ME "**
 
-- 📫 How to reach me **" You shouldn't "**
+- 📫 How to reach me [" You shouldn't "](#connect-with-me)
 
 - 📄 Know about my experiences [" There is none "](https://github.com/holyghxst)
 
