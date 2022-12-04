@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=HoLyGhxsT&label=Profile%20Views&color=9&icon=2&pretty=true)](https://visitcount.itsvg.in)
 <!-- [![MasterHead](https://i.imgur.com/T6qxFmt.gif)](https://github.com/holyghxst) -->
 <!-- <p align="left"> <img src="https://visitcount.itsvg.in/api?id=HoLyGhxsT&label=Profile%20Views&color=9&icon=2&pretty=true" alt="holyghxst" /> </p> -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Karthik Raj</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karthik Raj</h1>
 <p align="center">
   <!-- <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=A+Curious+Cyber-Security+Enthusiast;I+Love+Learning+New+Technologies;And+Play+Around+With+Them">
@@ -23,7 +23,8 @@
 - 👨‍💻 **`Tech Junkie (Developer, CyberSecurity Analyst, Gamer)`**
 <br/>
 
-## Languages and Tools:
+## Languages and Tools
+
 <img align="left" alt="JavaScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -79,9 +80,10 @@
 </div> -->
 <br />
 
-## Github Stats:
+## Github Stats
+
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=holyghxst&show_icons=true&locale=en&layout=compact&theme=gotham" alt="holyghxst" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=holyghxst&show_icons=true&locale=en&layout=compact&theme=gotham" alt="holyghxst" />
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=holyghxst&show_icons=true&locale=en&layout=compact&theme=gotham" alt="holyghxst" />
 <br />
@@ -89,13 +91,15 @@
 </div>
 <br />
 
-## LeetCode:
+## LeetCode
+
 <div align="center">
 <img align="center" src="https://leetcode-stats-six.vercel.app/?username=HoLyGhxsT&theme=dark"  />
 </div>
 <br />
 
-## Connect with me:
+## Connect with me
+
 <p align="center">
 <a href="https://instagram.com/kn1ghtblood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kn1ghtblood" height="30" width="40" /></a>
 <a href="https://github.com/HoLyGhxsT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kn1ghtblood" height="30" width="40" /></a>
