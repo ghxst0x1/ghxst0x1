@@ -96,12 +96,20 @@
 </div>
 <br />
 
-## LeetCode
+<details>
+ <summary>🧑‍💻 LeetCode </summary>
+  <div align="center">
+  <img align="center" src="https://leetcode-stats-six.vercel.app/?username=HoLyGhxsT&theme=dark"  />
+  </div>
+</details>
 
-<div align="center">
-<img align="center" src="https://leetcode-stats-six.vercel.app/?username=HoLyGhxsT&theme=dark"  />
-</div>
 <br />
+
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+    <!--START_SECTION:activity-->
+
+</details>
 
 ## Connect with me
 
