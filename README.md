@@ -88,9 +88,9 @@
 ## Github Stats
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=holyghxst&show_icons=true&locale=en&layout=compact&theme=gotham" alt="holyghxst" />
+<img align="center" src="https://github-readme-stats-two-nu-21.vercel.app/api/top-langs?username=holyghxst&show_icons=true&locale=en&layout=compact&theme=gotham" alt="holyghxst" />
 <br />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=holyghxst&show_icons=true&locale=en&layout=compact&theme=gotham" alt="holyghxst" />
+<img align="center" src="https://github-readme-stats-two-nu-21.vercel.app/api?username=holyghxst&show_icons=true&locale=en&layout=compact&theme=gotham" alt="holyghxst" />
 <br />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=holyghxst&layout=compact&theme=gotham" alt="holyghxst" />
 </div>
@@ -108,15 +108,17 @@
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/KalifoTechnologies/Thycha-Coming-soon/pull/2) in [KalifoTechnologies/Thycha-Coming-soon](https://github.com/KalifoTechnologies/Thycha-Coming-soon)
-2. 💪 Opened PR [#24](https://github.com/Swathi014/IJMESRT/pull/24) in [Swathi014/IJMESRT](https://github.com/Swathi014/IJMESRT)
-3. 💪 Opened PR [#23](https://github.com/Swathi014/IJMESRT/pull/23) in [Swathi014/IJMESRT](https://github.com/Swathi014/IJMESRT)
-4. 💪 Opened PR [#22](https://github.com/Swathi014/IJMESRT/pull/22) in [Swathi014/IJMESRT](https://github.com/Swathi014/IJMESRT)
-5. 💪 Opened PR [#21](https://github.com/Swathi014/IJMESRT/pull/21) in [Swathi014/IJMESRT](https://github.com/Swathi014/IJMESRT)
-<!--END_SECTION:activity-->
-
 
 </details>
+
+## Now Playing 🎧
+
+<div align="center">
+  <a href="https://open.spotify.com/user/gcv6nldu9d8pdd29lnuyzjc9p">
+    <img  align="center" src="https://spotify-now-playing-azure-three.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>
+  </a>
+</div>
+<!-- [<img  align="center" src="https://spotify-now-playing-azure-three.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/gcv6nldu9d8pdd29lnuyzjc9p) -->
 
 ## Connect with me
 
