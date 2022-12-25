@@ -110,6 +110,7 @@
 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/KalifoTechnologies/Thycha-Coming-soon/pull/2) in [KalifoTechnologies/Thycha-Coming-soon](https://github.com/KalifoTechnologies/Thycha-Coming-soon)
 2. 💪 Opened PR [#24](https://github.com/Swathi014/IJMESRT/pull/24) in [Swathi014/IJMESRT](https://github.com/Swathi014/IJMESRT)
