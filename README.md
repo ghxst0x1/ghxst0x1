@@ -116,11 +116,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43](https://github.com/Esdark/Emirates-Power-Link/pull/43) in [Esdark/Emirates-Power-Link](https://github.com/Esdark/Emirates-Power-Link)
-2. 🎉 Merged PR [#2](https://github.com/KalifoTechnologies/Thycha-Coming-soon/pull/2) in [KalifoTechnologies/Thycha-Coming-soon](https://github.com/KalifoTechnologies/Thycha-Coming-soon)
-3. 💪 Opened PR [#24](https://github.com/Swathi014/IJMESRT/pull/24) in [Swathi014/IJMESRT](https://github.com/Swathi014/IJMESRT)
-4. 💪 Opened PR [#23](https://github.com/Swathi014/IJMESRT/pull/23) in [Swathi014/IJMESRT](https://github.com/Swathi014/IJMESRT)
-5. 💪 Opened PR [#22](https://github.com/Swathi014/IJMESRT/pull/22) in [Swathi014/IJMESRT](https://github.com/Swathi014/IJMESRT)
+1. 💪 Opened PR [#46](https://github.com/Esdark/Emirates-Power-Link/pull/46) in [Esdark/Emirates-Power-Link](https://github.com/Esdark/Emirates-Power-Link)
+2. 💪 Opened PR [#43](https://github.com/Esdark/Emirates-Power-Link/pull/43) in [Esdark/Emirates-Power-Link](https://github.com/Esdark/Emirates-Power-Link)
+3. 🎉 Merged PR [#2](https://github.com/KalifoTechnologies/Thycha-Coming-soon/pull/2) in [KalifoTechnologies/Thycha-Coming-soon](https://github.com/KalifoTechnologies/Thycha-Coming-soon)
+4. 💪 Opened PR [#24](https://github.com/Swathi014/IJMESRT/pull/24) in [Swathi014/IJMESRT](https://github.com/Swathi014/IJMESRT)
+5. 💪 Opened PR [#23](https://github.com/Swathi014/IJMESRT/pull/23) in [Swathi014/IJMESRT](https://github.com/Swathi014/IJMESRT)
 <!--END_SECTION:activity-->
 
 </details>
