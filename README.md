@@ -94,13 +94,21 @@
 
 ## Github Stats
 
-<div align="center">
+<p align="center">
 <img align="center" src="https://github-readme-stats-two-nu-21.vercel.app/api/top-langs?username=holyghxst&show_icons=true&locale=en&layout=compact&theme=gotham" alt="holyghxst" />
 <br />
 <img align="center" src="https://github-readme-stats-two-nu-21.vercel.app/api?username=holyghxst&show_icons=true&locale=en&layout=compact&theme=gotham" alt="holyghxst" />
 <br />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=holyghxst&layout=compact&theme=gotham" alt="holyghxst" />
-</div>
+</p>
+<br />
+
+<details>
+  <summary>💹 Github Activity Graph</summary>
+  <br>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=holyghxst&theme=react-dark" alt="Oops, something went wrong with Activity Graph" />
+</details>
+
 <br />
 
 <details>
