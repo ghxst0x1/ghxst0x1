@@ -23,7 +23,7 @@
 - 👨‍💻 **`Tech Junkie (Developer, CyberSecurity Analyst, Gamer)`**
 <br/>
 
-## Languages and Tools
+## Languages and Tools:
 
 <div align="center">
 <img title="JavaScript" alt="JavaScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -86,7 +86,7 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 </div> -->
 
-## Github Stats
+## Github Stats:
 
 <p align="center">
 <img align="center" src="https://github-readme-stats-two-nu-21.vercel.app/api/top-langs?username=holyghxst&show_icons=true&locale=en&layout=compact&theme=gotham" alt="holyghxst" />
@@ -98,7 +98,7 @@
 <br />
 
 <details>
-  <summary>💹 Github Activity Graph</summary>
+  <summary>💹 Github Activity Graph </summary>
   <br>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=holyghxst&theme=react-dark" alt="Oops, something went wrong with Activity Graph" />
 </details>
@@ -129,7 +129,7 @@
 </div>
 </details>
 
-## Now Playing 🎧
+## Now Playing 🎧:
 
 <div align="center">
   <a href="https://open.spotify.com/user/gcv6nldu9d8pdd29lnuyzjc9p">
@@ -138,7 +138,7 @@
 </div>
 <!-- [<img  align="center" src="https://spotify-now-playing-azure-three.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/gcv6nldu9d8pdd29lnuyzjc9p) -->
 
-## Connect with me
+## Connect with me:
 
 <p align="center">
 <a href="https://instagram.com/kn1ghtblood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kn1ghtblood" height="30" width="40" /></a>
