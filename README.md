@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=HoLyGhxsT&label=Profile%20Views&color=9&icon=2&pretty=true)](https://visitcount.itsvg.in)
 <!-- [![MasterHead](https://i.imgur.com/T6qxFmt.gif)](https://github.com/holyghxst) -->
 <!-- <p align="left"> <img src="https://visitcount.itsvg.in/api?id=HoLyGhxsT&label=Profile%20Views&color=9&icon=2&pretty=true" alt="holyghxst" /> </p> -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karthik Raj</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Karthik Raj</h1>
 <p align="center">
   <!-- <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=A+Curious+Cyber-Security+Enthusiast;I+Love+Learning+New+Technologies;And+Play+Around+With+Them">
