@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **" My Skills "**
 
-- 💬 Ask me about **" ME "**
+- 💬 Ask me about **" CyberSecurity, Linux Stuff, Games 😉 "**
 
 - 📫 How to reach me [" You shouldn't "](#connect-with-me)
 
