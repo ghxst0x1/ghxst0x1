@@ -141,6 +141,7 @@
 ## Connect with me:
 
 <p align="center">
+<a title="karthikrofficial7@gmail.com" href="mailto:karthikrofficial7@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/dusk/64/null/mail-ru-agent.png" alt="kathikrofficial7@gmail.com" height="30" width="30" /></a>
 <a href="https://instagram.com/kn1ghtblood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kn1ghtblood" height="30" width="40" /></a>
 <a href="https://github.com/HoLyGhxsT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kn1ghtblood" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karthik-r-536018216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthik-r-536018216/" height="30" width="40" /></a>
