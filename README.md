@@ -89,11 +89,11 @@
 ## Github Stats:
 
 <p align="center">
-<img align="center" src="https://github-readme-stats-two-nu-21.vercel.app/api/top-langs?username=holyghxst&show_icons=true&locale=en&layout=compact&theme=gotham" alt="holyghxst" />
+<img src="https://github-readme-stats-two-nu-21.vercel.app/api/top-langs?username=holyghxst&show_icons=true&locale=en&layout=compact&theme=gotham" alt="holyghxst" />
 <br />
-<img align="center" src="https://github-readme-stats-two-nu-21.vercel.app/api?username=holyghxst&show_icons=true&locale=en&layout=compact&theme=gotham" alt="holyghxst" />
+<img src="https://github-readme-stats-two-nu-21.vercel.app/api?username=holyghxst&show_icons=true&locale=en&layout=compact&theme=gotham" alt="holyghxst" />
 <br />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=holyghxst&layout=compact&theme=gotham" alt="holyghxst" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=holyghxst&layout=compact&theme=gotham" alt="holyghxst" />
 </p>
 <br />
 
@@ -108,7 +108,7 @@
 <details>
  <summary>🧑‍💻 LeetCode </summary>
   <div align="center">
-  <img align="center" src="https://leetcode-stats-six.vercel.app/?username=HoLyGhxsT&theme=dark"  />
+  <img src="https://leetcode-stats-six.vercel.app/?username=HoLyGhxsT&theme=dark"  />
   </div>
 </details>
 
