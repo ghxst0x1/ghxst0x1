@@ -52,6 +52,7 @@
 <img title="Gitlab" alt="GITLAB" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 <img title="Kali" alt="KALI" width="35px" style="padding-right:10px;" src="https://img.icons8.com/plasticine/100/null/kali-linux.png" />
 <img title="Linux" alt="LINUX" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
+<img title="Arch Linux" alt="ARCH-LINUX" width="35px" style="padding-right:10px;" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-color-tal-revivo.png" />
 <img title="Arduino" alt="ARDUINO" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 <img title="VSCode" alt="VSCODE" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img title="NeoVIM" alt="NEOVIM" width="35px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" />
