@@ -23,7 +23,7 @@
 - 👨‍💻 **`Tech Junkie (Developer, CyberSecurity Analyst, Gamer)`**
 <br/>
 
-## Languages and Tools:
+## Languages:
 
 <div align="center">
 <img title="JavaScript" alt="JavaScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -35,7 +35,6 @@
 <img title="DART" alt="DART" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 <img title="C" alt="C" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img title="DJANGO" alt="DJANGO" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-<img title="DOCKER" alt="DOCKER" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <img title="C++" alt="C++" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img title="BASH" alt="BASH" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
 <img title="ElectronJS" alt="ELECTRONJS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
@@ -50,14 +49,21 @@
 <img title="Git" alt="GIT" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img title="Github" alt="GITHUB" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img title="Gitlab" alt="GITLAB" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-<img title="Kali" alt="KALI" width="35px" style="padding-right:10px;" src="https://img.icons8.com/plasticine/100/null/kali-linux.png" />
-<img title="Linux" alt="LINUX" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
-<img title="Arch Linux" alt="ARCH-LINUX" width="35px" style="padding-right:10px;" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-color-tal-revivo.png" />
+<img title="DiscordJS" alt="DJS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
+</div>
+
+## Tools:
+
+<div align="center">
+<img title="DOCKER" alt="DOCKER" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <img title="Arduino" alt="ARDUINO" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 <img title="VSCode" alt="VSCODE" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img title="NeoVIM" alt="NEOVIM" width="35px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" />
 <img title="Android Studio" alt="ANDROID_STUDIO" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-<img title="DiscordJS" alt="DJS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
+<img title="Kali" alt="KALI" width="35px" style="padding-right:10px;" src="https://img.icons8.com/plasticine/100/null/kali-linux.png" />
+<img title="Linux" alt="LINUX" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
+<img title="Arch Linux" alt="ARCH-LINUX" width="35px" style="padding-right:10px;" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-color-tal-revivo.png" />
+
 </div>
 <!-- <div align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
