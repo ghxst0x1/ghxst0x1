@@ -142,11 +142,11 @@
   <div align="center">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/KalifoTechnologies/Emirates-Power-Link/pull/27) in [KalifoTechnologies/Emirates-Power-Link](https://github.com/KalifoTechnologies/Emirates-Power-Link)
-2. 💪 Opened PR [#27](https://github.com/KalifoTechnologies/Emirates-Power-Link/pull/27) in [KalifoTechnologies/Emirates-Power-Link](https://github.com/KalifoTechnologies/Emirates-Power-Link)
-3. 💪 Opened PR [#46](https://github.com/Esdark/Emirates-Power-Link/pull/46) in [Esdark/Emirates-Power-Link](https://github.com/Esdark/Emirates-Power-Link)
-4. 💪 Opened PR [#43](https://github.com/Esdark/Emirates-Power-Link/pull/43) in [Esdark/Emirates-Power-Link](https://github.com/Esdark/Emirates-Power-Link)
-5. 🎉 Merged PR [#2](https://github.com/KalifoTechnologies/Thycha-Coming-soon/pull/2) in [KalifoTechnologies/Thycha-Coming-soon](https://github.com/KalifoTechnologies/Thycha-Coming-soon)
+1. 💪 Opened PR [#1](https://github.com/Swathi014/Thycha-Creatives/pull/1) in [Swathi014/Thycha-Creatives](https://github.com/Swathi014/Thycha-Creatives)
+2. 🎉 Merged PR [#27](https://github.com/KalifoTechnologies/Emirates-Power-Link/pull/27) in [KalifoTechnologies/Emirates-Power-Link](https://github.com/KalifoTechnologies/Emirates-Power-Link)
+3. 💪 Opened PR [#27](https://github.com/KalifoTechnologies/Emirates-Power-Link/pull/27) in [KalifoTechnologies/Emirates-Power-Link](https://github.com/KalifoTechnologies/Emirates-Power-Link)
+4. 💪 Opened PR [#46](https://github.com/Esdark/Emirates-Power-Link/pull/46) in [Esdark/Emirates-Power-Link](https://github.com/Esdark/Emirates-Power-Link)
+5. 💪 Opened PR [#43](https://github.com/Esdark/Emirates-Power-Link/pull/43) in [Esdark/Emirates-Power-Link](https://github.com/Esdark/Emirates-Power-Link)
 <!--END_SECTION:activity-->
 
 </div>
