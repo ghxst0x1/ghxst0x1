@@ -155,7 +155,7 @@
 ## Now Playing 🎧:
 
 <div align="center">
-  <a href="https://open.spotify.com/user/gcv6nldu9d8pdd29lnuyzjc9p">
+  <a href="https://open.spotify.com/user/gcv6nldu9d8pdd29lnuyzjc9p" target="_blank">
     <img  align="center" src="https://spotify-now-playing-azure-three.vercel.app/api/spotify" alt="Spotify Now Playing" width="450"/>
   </a>
 </div>
@@ -165,11 +165,11 @@
 
 <p align="center">
 <a title="karthikrofficial7@gmail.com" href="mailto:karthikrofficial7@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/dusk/64/null/mail-ru-agent.png" alt="kathikrofficial7@gmail.com" height="30" width="30" /></a>
-<a title="Instagram" href="https://instagram.com/kn1ghtblood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kn1ghtblood" height="30" width="40" /></a>
-<a title="GitHub" href="https://github.com/HoLyGhxsT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kn1ghtblood" height="30" width="40" /></a>
-<a title="LinkedIn" href="https://linkedin.com/in/karthik-r-536018216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthik-r-536018216/" height="30" width="40" /></a>
-<a title="LeetCode" href="https://www.leetcode.com/holyghxst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="holyghxst" height="30" width="40" /></a>
-<a title="Discord" href="https://discordapp.com/users/389076071363903489" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/389076071363903489" height="30" width="40" /></a>
+<a title="Instagram" href="https://instagram.com/kn1ghtblood" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kn1ghtblood" height="30" width="40" /></a>
+<a title="GitHub" href="https://github.com/HoLyGhxsT" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kn1ghtblood" height="30" width="40" /></a>
+<a title="LinkedIn" href="https://linkedin.com/in/karthik-r-536018216/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthik-r-536018216/" height="30" width="40" /></a>
+<a title="LeetCode" href="https://www.leetcode.com/holyghxst" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="holyghxst" height="30" width="40" /></a>
+<a title="Discord" href="https://discordapp.com/users/389076071363903489" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/389076071363903489" height="30" width="40" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=holyghxst&label=Profile%20views&color=0e75b6&style=flat" alt="holyghxst" /> </p>
