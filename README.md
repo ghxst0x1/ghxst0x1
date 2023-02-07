@@ -142,11 +142,11 @@
   <div align="center">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/HoLyGhxsT/cryptobot/pull/4) in [HoLyGhxsT/cryptobot](https://github.com/HoLyGhxsT/cryptobot)
-2. 💪 Opened PR [#4](https://github.com/HoLyGhxsT/cryptobot/pull/4) in [HoLyGhxsT/cryptobot](https://github.com/HoLyGhxsT/cryptobot)
-3. 🎉 Merged PR [#3](https://github.com/HoLyGhxsT/cryptobot/pull/3) in [HoLyGhxsT/cryptobot](https://github.com/HoLyGhxsT/cryptobot)
-4. 🎉 Merged PR [#2](https://github.com/HoLyGhxsT/cryptobot/pull/2) in [HoLyGhxsT/cryptobot](https://github.com/HoLyGhxsT/cryptobot)
-5. 💪 Opened PR [#2](https://github.com/HoLyGhxsT/cryptobot/pull/2) in [HoLyGhxsT/cryptobot](https://github.com/HoLyGhxsT/cryptobot)
+1. ❌ Closed PR [#2](https://github.com/Swathi014/Thycha-Creatives/pull/2) in [Swathi014/Thycha-Creatives](https://github.com/Swathi014/Thycha-Creatives)
+2. 💪 Opened PR [#2](https://github.com/Swathi014/Thycha-Creatives/pull/2) in [Swathi014/Thycha-Creatives](https://github.com/Swathi014/Thycha-Creatives)
+3. 🎉 Merged PR [#4](https://github.com/HoLyGhxsT/cryptobot/pull/4) in [HoLyGhxsT/cryptobot](https://github.com/HoLyGhxsT/cryptobot)
+4. 💪 Opened PR [#4](https://github.com/HoLyGhxsT/cryptobot/pull/4) in [HoLyGhxsT/cryptobot](https://github.com/HoLyGhxsT/cryptobot)
+5. 🎉 Merged PR [#3](https://github.com/HoLyGhxsT/cryptobot/pull/3) in [HoLyGhxsT/cryptobot](https://github.com/HoLyGhxsT/cryptobot)
 <!--END_SECTION:activity-->
 
 </div>
