@@ -142,11 +142,11 @@
   <div align="center">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/Swathi014/IJMESRT/pull/25) in [Swathi014/IJMESRT](https://github.com/Swathi014/IJMESRT)
-2. ❌ Closed PR [#2](https://github.com/Swathi014/Thycha-Creatives/pull/2) in [Swathi014/Thycha-Creatives](https://github.com/Swathi014/Thycha-Creatives)
-3. 💪 Opened PR [#2](https://github.com/Swathi014/Thycha-Creatives/pull/2) in [Swathi014/Thycha-Creatives](https://github.com/Swathi014/Thycha-Creatives)
-4. 🎉 Merged PR [#4](https://github.com/HoLyGhxsT/cryptobot/pull/4) in [HoLyGhxsT/cryptobot](https://github.com/HoLyGhxsT/cryptobot)
-5. 💪 Opened PR [#4](https://github.com/HoLyGhxsT/cryptobot/pull/4) in [HoLyGhxsT/cryptobot](https://github.com/HoLyGhxsT/cryptobot)
+1. 🗣 Commented on [#1639](https://github.com/Androz2091/discord-player/issues/1639) in [Androz2091/discord-player](https://github.com/Androz2091/discord-player)
+2. 💪 Opened PR [#25](https://github.com/Swathi014/IJMESRT/pull/25) in [Swathi014/IJMESRT](https://github.com/Swathi014/IJMESRT)
+3. ❌ Closed PR [#2](https://github.com/Swathi014/Thycha-Creatives/pull/2) in [Swathi014/Thycha-Creatives](https://github.com/Swathi014/Thycha-Creatives)
+4. 💪 Opened PR [#2](https://github.com/Swathi014/Thycha-Creatives/pull/2) in [Swathi014/Thycha-Creatives](https://github.com/Swathi014/Thycha-Creatives)
+5. 🎉 Merged PR [#4](https://github.com/HoLyGhxsT/cryptobot/pull/4) in [HoLyGhxsT/cryptobot](https://github.com/HoLyGhxsT/cryptobot)
 <!--END_SECTION:activity-->
 
 </div>
