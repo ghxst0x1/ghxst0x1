@@ -129,9 +129,12 @@
 <br />
 
 <details>
- <summary>🧑‍💻 LeetCode </summary>
+ <summary>🧑‍💻 Badges </summary>
   <div align="center">
   <img src="https://leetcode-stats-six.vercel.app/?username=HoLyGhxsT&theme=dark"  />
+  </div>
+  <div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/KarthikR.png" alt="TryHackMe">
   </div>
 </details>
 
