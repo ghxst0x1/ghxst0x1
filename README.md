@@ -145,11 +145,11 @@
   <div align="center">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/HoLyGhxsT/speakerbox/pull/6) in [HoLyGhxsT/speakerbox](https://github.com/HoLyGhxsT/speakerbox)
-2. 💪 Opened PR [#6](https://github.com/HoLyGhxsT/speakerbox/pull/6) in [HoLyGhxsT/speakerbox](https://github.com/HoLyGhxsT/speakerbox)
-3. 🎉 Merged PR [#5](https://github.com/HoLyGhxsT/speakerbox/pull/5) in [HoLyGhxsT/speakerbox](https://github.com/HoLyGhxsT/speakerbox)
-4. 💪 Opened PR [#5](https://github.com/HoLyGhxsT/speakerbox/pull/5) in [HoLyGhxsT/speakerbox](https://github.com/HoLyGhxsT/speakerbox)
-5. 🎉 Merged PR [#4](https://github.com/HoLyGhxsT/speakerbox/pull/4) in [HoLyGhxsT/speakerbox](https://github.com/HoLyGhxsT/speakerbox)
+1. 🎉 Merged PR [#8](https://github.com/ghxst0x1/speakerbox/pull/8) in [ghxst0x1/speakerbox](https://github.com/ghxst0x1/speakerbox)
+2. 💪 Opened PR [#8](https://github.com/ghxst0x1/speakerbox/pull/8) in [ghxst0x1/speakerbox](https://github.com/ghxst0x1/speakerbox)
+3. ❌ Closed PR [#7](https://github.com/ghxst0x1/speakerbox/pull/7) in [ghxst0x1/speakerbox](https://github.com/ghxst0x1/speakerbox)
+4. 💪 Opened PR [#7](https://github.com/ghxst0x1/speakerbox/pull/7) in [ghxst0x1/speakerbox](https://github.com/ghxst0x1/speakerbox)
+5. 🎉 Merged PR [#6](https://github.com/HoLyGhxsT/speakerbox/pull/6) in [HoLyGhxsT/speakerbox](https://github.com/HoLyGhxsT/speakerbox)
 <!--END_SECTION:activity-->
 
 </div>
