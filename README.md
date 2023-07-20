@@ -134,7 +134,9 @@
   <img src="https://leetcode-stats-six.vercel.app/?username=HoLyGhxsT&theme=dark"  />
   </div>
   <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/KarthikR.png" alt="TryHackMe">
+    <a href="https://tryhackme.com/p/KarthikR">
+      <img src="https://tryhackme-badges.s3.amazonaws.com/KarthikR.png" alt="TryHackMe">
+    </a>
   </div>
 </details>
 
