@@ -109,11 +109,11 @@
   <summary>📊 Github Stats </summary>
   <br />
   <p align="center">
-    <img src="https://github-readme-stats-two-nu-21.vercel.app/api/top-langs?username=holyghxst&show_icons=true&locale=en&layout=compact&theme=gotham" alt="holyghxst" />
+    <img src="https://github-readme-stats-two-nu-21.vercel.app/api/top-langs?username=ghxst0x1&show_icons=true&locale=en&layout=compact&theme=gotham" alt="ghxst0x1" />
     <br />
-    <img src="https://github-readme-stats-two-nu-21.vercel.app/api?username=holyghxst&show_icons=true&locale=en&layout=compact&theme=gotham" alt="holyghxst" />
+    <img src="https://github-readme-stats-two-nu-21.vercel.app/api?username=ghxst0x1&show_icons=true&locale=en&layout=compact&theme=gotham" alt="ghxst0x1" />
     <br />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=holyghxst&layout=compact&theme=gotham" alt="holyghxst" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghxst0x1&layout=compact&theme=gotham" alt="ghxst0x1" />
   </p>
   <br />
 </details>
@@ -123,7 +123,8 @@
 <details>
   <summary>💹 Github Activity Graph </summary>
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=holyghxst&theme=react-dark" alt="Oops, something went wrong with Activity Graph" />
+  <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ghxst0x1&theme=react-dark" alt="Oops, something went wrong with Activity Graph" /> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghxst0x1&theme=react-dark" alt="Oops, something went wrong with Activity Graph">
 </details>
 
 <br />
@@ -131,7 +132,7 @@
 <details>
  <summary>🧑‍💻 Badges </summary>
   <div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=HoLyGhxsT&theme=dark"  />
+  <img src="https://leetcode-stats-six.vercel.app/?username=ghxst0x1&theme=dark"  />
   </div>
   <div align="center">
     <a href="https://tryhackme.com/p/KarthikR">
@@ -171,7 +172,7 @@
 <p align="center">
 <a title="karthikrofficial7@gmail.com" href="mailto:karthikrofficial7@gmail.com" ><img align="center" src="https://img.icons8.com/dusk/64/null/mail-ru-agent.png" alt="kathikrofficial7@gmail.com" height="30" width="30" /></a>
 <a title="Instagram" href="https://instagram.com/kn1ghtblood" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kn1ghtblood" height="30" width="40" /></a>
-<a title="GitHub" href="https://github.com/HoLyGhxsT" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kn1ghtblood" height="30" width="40" /></a>
+<a title="GitHub" href="https://github.com/ghxst0x1" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kn1ghtblood" height="30" width="40" /></a>
 <a title="LinkedIn" href="https://linkedin.com/in/karthik-r-536018216/" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthik-r-536018216/" height="30" width="40" /></a>
 <a title="LeetCode" href="https://www.leetcode.com/holyghxst" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="holyghxst" height="30" width="40" /></a>
 <a title="Discord" href="https://discordapp.com/users/389076071363903489" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/389076071363903489" height="30" width="40" /></a>
