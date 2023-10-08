@@ -148,11 +148,11 @@
   <div align="center">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/ghxst0x1/speakerbox/pull/9) in [ghxst0x1/speakerbox](https://github.com/ghxst0x1/speakerbox)
-2. 💪 Opened PR [#9](https://github.com/ghxst0x1/speakerbox/pull/9) in [ghxst0x1/speakerbox](https://github.com/ghxst0x1/speakerbox)
-3. 🎉 Merged PR [#8](https://github.com/ghxst0x1/speakerbox/pull/8) in [ghxst0x1/speakerbox](https://github.com/ghxst0x1/speakerbox)
-4. 💪 Opened PR [#8](https://github.com/ghxst0x1/speakerbox/pull/8) in [ghxst0x1/speakerbox](https://github.com/ghxst0x1/speakerbox)
-5. ❌ Closed PR [#7](https://github.com/ghxst0x1/speakerbox/pull/7) in [ghxst0x1/speakerbox](https://github.com/ghxst0x1/speakerbox)
+1. 🎉 Merged PR [#3](https://github.com/ghxst0x1/steampin/pull/3) in [ghxst0x1/steampin](https://github.com/ghxst0x1/steampin)
+2. 💪 Opened PR [#3](https://github.com/ghxst0x1/steampin/pull/3) in [ghxst0x1/steampin](https://github.com/ghxst0x1/steampin)
+3. 🎉 Merged PR [#2](https://github.com/ghxst0x1/steampin/pull/2) in [ghxst0x1/steampin](https://github.com/ghxst0x1/steampin)
+4. 💪 Opened PR [#2](https://github.com/ghxst0x1/steampin/pull/2) in [ghxst0x1/steampin](https://github.com/ghxst0x1/steampin)
+5. 🎉 Merged PR [#1](https://github.com/ghxst0x1/steampin/pull/1) in [ghxst0x1/steampin](https://github.com/ghxst0x1/steampin)
 <!--END_SECTION:activity-->
 
 </div>
