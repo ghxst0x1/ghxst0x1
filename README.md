@@ -16,7 +16,9 @@
 
 - 📫 How to reach me [" You shouldn't "](#connect-with-me)
 
-- 📄 Know about my experiences [" There is none "](#languages)
+- 💻 **Certified Penetration Tester**[->]()
+
+<!-- - 📄 Know about my experiences [" There is none "](#languages) -->
 
 - ⚡ Fun fact **" I'd rather break and rebuild than build anew "**
   
