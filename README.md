@@ -16,7 +16,7 @@
 
 - 📫 How to reach me [" You shouldn't "](#connect-with-me)
 
-- 💻 **Certified Penetration Tester**[->]()
+- 💻 **Certified Penetration Tester**[ ⇒ ](https://raw.githubusercontent.com/ghxst0x1/ghxst0x1/main/assets/RedTeam-CPT-Certificate.png)
 
 <!-- - 📄 Know about my experiences [" There is none "](#languages) -->
 
