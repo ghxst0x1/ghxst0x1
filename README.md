@@ -14,16 +14,18 @@
 
 - 💬 Ask me about **" CyberSecurity, Linux Stuff, Games 😉 "**
 
-- 📫 How to reach me [" You shouldn't "](#connect-with-me)
-
 - 💻 **Certified Penetration Tester**[ ⇒ ](https://raw.githubusercontent.com/ghxst0x1/ghxst0x1/main/assets/RedTeam-CPT-Certificate.png)
+
+- 📫 How to reach me [" You shouldn't "](#connect-with-me)
 
 <!-- - 📄 Know about my experiences [" There is none "](#languages) -->
 
-- ⚡ Fun fact **" I'd rather break and rebuild than build anew "**
+<!-- - ⚡ Fun fact **" I'd rather break and rebuild than build anew "** -->
+- 🗿 Visit my website ["👉"](https://karthikr.is-a.dev)
   
 - 👨‍💻 **`Tech Junkie (Developer, CyberSecurity Analyst, Gamer)`**
 <br/>
+
 
 ## Languages:
 
@@ -62,9 +64,9 @@
 <img title="VSCode" alt="VSCODE" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img title="NeoVIM" alt="NEOVIM" width="35px" style="padding-right:15px;" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" />
 <img title="Android Studio" alt="ANDROID_STUDIO" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-<img title="Kali" alt="KALI" width="35px" style="padding-right:15px;" src="https://img.icons8.com/plasticine/100/null/kali-linux.png" />
+<img title="Kali" alt="KALI" width="35px" style="padding-right:15px;" src="https://static-00.iconduck.com/assets.00/distributor-logo-kali-linux-icon-512x502-xjwfgrih.png" />
 <img title="Linux" alt="LINUX" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
-<img title="Arch Linux" alt="ARCH-LINUX" width="35px" style="padding-right:15px;" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-color-tal-revivo.png" />
+<img title="Arch Linux" alt="ARCH-LINUX" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
 
 </div>
 <br />
@@ -172,7 +174,7 @@
 ## Connect with me:
 
 <p align="center">
-<a title="karthikrofficial7@gmail.com" href="mailto:karthikrofficial7@gmail.com" ><img align="center" src="https://img.icons8.com/dusk/64/null/mail-ru-agent.png" alt="kathikrofficial7@gmail.com" height="30" width="30" /></a>
+<a title="ghxst0x1@proton.me" href="mailto:ghxst0x1@proton.me" ><img align="center" src="https://cdn-icons-png.flaticon.com/512/3375/3375406.png" alt="ghxst0x1@proton.me" height="30" width="30" /></a>
 <a title="Instagram" href="https://instagram.com/kn1ghtblood" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kn1ghtblood" height="30" width="40" /></a>
 <a title="GitHub" href="https://github.com/ghxst0x1" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kn1ghtblood" height="30" width="40" /></a>
 <a title="LinkedIn" href="https://linkedin.com/in/karthikr0x1/" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikr0x1/" height="30" width="40" /></a>
