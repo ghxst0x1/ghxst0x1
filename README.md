@@ -1,185 +1,63 @@
-[![](https://visitcount.itsvg.in/api?id=HoLyGhxsT&label=Profile%20Views&color=9&icon=2&pretty=true)](https://visitcount.itsvg.in)
-<!-- [![MasterHead](https://i.imgur.com/T6qxFmt.gif)](https://github.com/holyghxst) -->
-<!-- <p align="left"> <img src="https://visitcount.itsvg.in/api?id=HoLyGhxsT&label=Profile%20Views&color=9&icon=2&pretty=true" alt="holyghxst" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=holyghxst&label=Profile%20views&color=0e75b6&style=flat" alt="ghxst0x1" /> </p>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Karthik Raj</h1>
 <p align="center">
-  <!-- <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=A+Curious+Cyber-Security+Enthusiast;I+Love+Learning+New+Technologies;And+Play+Around+With+Them">
-  </a> -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D22730&center=true&width=435&lines=A+Curious+Cyber-Security+Enthusiast;I+Love+Learning+New+Technologies+;And+Play+Around+With+Them" alt="Typing SVG" /></a>
 </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-- 🔭 I’m currently working on **" My Skills "**
+### About Me
 
-- 💬 Ask me about **" CyberSecurity, Linux Stuff, Games 😉 "**
+- 🎓 **Certified Ethical Hacker** and Penetration Tester
 
-- 💻 **Certified Penetration Tester**[ ⇒ ](https://raw.githubusercontent.com/ghxst0x1/ghxst0x1/main/assets/RedTeam-CPT-Certificate.png)
+- 💬 Ask me about **CyberSecurity, Linux & Coding**
 
-- 📫 How to reach me [" You shouldn't "](#connect-with-me)
+- 🔭 I’m currently working on **My Skills**
 
-<!-- - 📄 Know about my experiences [" There is none "](#languages) -->
+<!-- - 💻 **Certified Penetration Tester**[ ⇒ ](https://raw.githubusercontent.com/ghxst0x1/ghxst0x1/main/assets/RedTeam-CPT-Certificate.png) -->
 
-<!-- - ⚡ Fun fact **" I'd rather break and rebuild than build anew "** -->
-- 🗿 Visit my website ["👉"](https://karthikr.is-a.dev)
+- 👨‍💻 **Tech Junkie** (Developer, CyberSecurity Analyst)
+
+- 📫 How to reach me [- Connect Here](#connect-with-me)
+
+- 🗿 Visit my website [**karthikr.is-a.dev**](https://karthikr.is-a.dev)
   
-- 👨‍💻 **`Tech Junkie (Developer, CyberSecurity Analyst, Gamer)`**
 <br/>
 
-
-## Languages:
-
-<div align="center">
-<img title="JavaScript" alt="JavaScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img title="TypeScript" alt="TypeScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img title="Python" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img title="HTML" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img title="CSS" alt="CSS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img title="PHP" alt="PHP" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<img title="DART" alt="DART" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-<img title="C" alt="C" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img title="DJANGO" alt="DJANGO" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-<img title="C++" alt="C++" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img title="BASH" alt="BASH" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
-<img title="ElectronJS" alt="ELECTRONJS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-<img title="Flutter" alt="FLUTTER" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img title="MARKDOWN" alt="MARKDOWN" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-<img title="Google Cloud Platform" alt="GCP" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-<img title="Amazon Web Services" alt="AWS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-<img title="MYSQL" alt="MYSQL" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img title="SQLITE" alt="SQLITE" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-<img title="Firebase" alt="FIREBASE" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
-<img title="NodeJS" alt="NODEJS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img title="Git" alt="GIT" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img title="Github" alt="GITHUB" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img title="Gitlab" alt="GITLAB" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-<img title="DiscordJS" alt="DJS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
-</div>
-
-## Tools:
+## Languages and Tools
 
 <div align="center">
-<img title="DOCKER" alt="DOCKER" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-<img title="Arduino" alt="ARDUINO" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-<img title="VSCode" alt="VSCODE" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img title="NeoVIM" alt="NEOVIM" width="35px" style="padding-right:15px;" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" />
-<img title="Android Studio" alt="ANDROID_STUDIO" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-<img title="Kali" alt="KALI" width="35px" style="padding-right:15px;" src="https://static-00.iconduck.com/assets.00/distributor-logo-kali-linux-icon-512x502-xjwfgrih.png" />
-<img title="Linux" alt="LINUX" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
-<img title="Arch Linux" alt="ARCH-LINUX" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
 
+<img title="Python" alt="Python" width="40px" height="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=py"/>
+<img title="C" alt="C" width="40px" height="40px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/c/original.svg"/>
+<img title="C++" alt="C++" width="40px" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img title="Rust" alt="Rust" width="40px" height="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=rust" />
+<img title="BASH" alt="BASH" width="40px" height="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=bash" />
+<img title="MYSQL" alt="MYSQL" width="40px" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img title="NodeJS" alt="NODEJS" width="40px" height="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=nodejs" />
+<img title="Git" alt="GIT" width="40px" height="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git" />
+<img title="Linux" alt="LINUX" width="40px" height="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=linux" />
+<img title="Windows" alt="Windows" width="40px" height="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=windows" />
+<img title="Docker" alt="Docker" width="40px" height="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=docker" />
+<img title="Wazuh" alt="Wazuh" width="40px" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg" />
+<img title="ELK Stack" alt="ELK" width="40px" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/elastic.svg" />
+<img title="SysInternals" alt="SysInternals" width="40px" height="40px" style="padding-right:10px;" src="https://learn.microsoft.com/en-us/sysinternals/media/index/sysinternals.png" />
 </div>
-<br />
-<!-- <div align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-</div> -->
+</br>
 
-<!-- ## Github Stats:
+## Projects
+
+- [passfetch](https://github.com/ghxst0x1/passfetch) - Chrome password grabber written in Rust
+- [NetMonGUI](https://github.com/ghxst0x1/NetMonGUI) - A **functioning** network monitor for windows written in Rust
+- [android_kernel_xiaomi_mido](https://github.com/ghxst0x1/android_kernel_xiaomi_mido) - A kernel fork of zeelog's LineageOS 19.1 for Redmi Note 4 with **Kali Nethunter** patches
+- [seecaesar](https://github.com/ghxst0x1/seecaesar) - A simple old fashioned caesar cipher script written in python
+- For more projects details and blog, visit my [website](https://karthikr.is-a.dev)
+</br>
+
+## Connect with me
 
 <p align="center">
-<img src="https://github-readme-stats-two-nu-21.vercel.app/api/top-langs?username=holyghxst&show_icons=true&locale=en&layout=compact&theme=gotham" alt="holyghxst" />
-<br />
-<img src="https://github-readme-stats-two-nu-21.vercel.app/api?username=holyghxst&show_icons=true&locale=en&layout=compact&theme=gotham" alt="holyghxst" />
-<br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=holyghxst&layout=compact&theme=gotham" alt="holyghxst" />
+<a title="ghxst0x1@proton.me" href="mailto:ghxst0x1@proton.me" ><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="ghxst0x1@proton.me" height="40" width="40" style="padding-right:10px;" /></a>
+<a title="Twitter/X" href="https://twitter.com/Kn1ghtblood" ><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="kn1ghtblood" height="40" width="40" style="padding-right:10px;" /></a>
+<a title="GitHub" href="https://github.com/ghxst0x1" ><img align="center" src="https://skillicons.dev/icons?i=github" alt="kn1ghtblood" height="40" width="40" style="padding-right:10px;" /></a>
+<a title="LinkedIn" href="https://linkedin.com/in/karthikr0x1/" ><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="karthikr0x1/" height="40" width="40" style="padding-right:10px;" /></a>
 </p>
-<br /> -->
-
-<details>
-  <summary>📊 Github Stats </summary>
-  <br />
-  <p align="center">
-    <img src="https://github-readme-stats-two-nu-21.vercel.app/api/top-langs?username=ghxst0x1&show_icons=true&locale=en&layout=compact&theme=gotham" alt="ghxst0x1" />
-    <br />
-    <img src="https://github-readme-stats-two-nu-21.vercel.app/api?username=ghxst0x1&show_icons=true&locale=en&layout=compact&theme=gotham" alt="ghxst0x1" />
-    <br />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghxst0x1&layout=compact&theme=gotham" alt="ghxst0x1" />
-  </p>
-  <br />
-</details>
-
-<br />
-
-<details>
-  <summary>💹 Github Activity Graph </summary>
-  <br>
-  <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ghxst0x1&theme=react-dark" alt="Oops, something went wrong with Activity Graph" /> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghxst0x1&theme=react-dark" alt="Oops, something went wrong with Activity Graph">
-</details>
-
-<br />
-
-<details>
- <summary>🧑‍💻 Badges </summary>
-  <div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=ghxst0x1&theme=dark"  />
-  </div>
-  <div align="center">
-    <a href="https://tryhackme.com/p/KarthikR">
-      <img src="https://tryhackme-badges.s3.amazonaws.com/KarthikR.png" alt="TryHackMe">
-    </a>
-  </div>
-</details>
-
-<br />
-
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <div align="center">
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/ghxst0x1/steampin/pull/6) in [ghxst0x1/steampin](https://github.com/ghxst0x1/steampin)
-2. 💪 Opened PR [#6](https://github.com/ghxst0x1/steampin/pull/6) in [ghxst0x1/steampin](https://github.com/ghxst0x1/steampin)
-3. 🎉 Merged PR [#5](https://github.com/ghxst0x1/steampin/pull/5) in [ghxst0x1/steampin](https://github.com/ghxst0x1/steampin)
-4. 💪 Opened PR [#5](https://github.com/ghxst0x1/steampin/pull/5) in [ghxst0x1/steampin](https://github.com/ghxst0x1/steampin)
-5. 🎉 Merged PR [#4](https://github.com/ghxst0x1/steampin/pull/4) in [ghxst0x1/steampin](https://github.com/ghxst0x1/steampin)
-<!--END_SECTION:activity-->
-
-</div>
-</details>
-
-## Now Playing 🎧:
-
-<div align="center">
-  <a href="https://open.spotify.com/user/gcv6nldu9d8pdd29lnuyzjc9p" target="_blank">
-    <img  align="center" src="https://spotify-now-playing-azure-three.vercel.app/api/spotify" alt="Spotify Now Playing" width="450"/>
-  </a>
-</div>
-<!-- [<img  align="center" src="https://spotify-now-playing-azure-three.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/gcv6nldu9d8pdd29lnuyzjc9p) -->
-
-## Connect with me:
-
-<p align="center">
-<a title="ghxst0x1@proton.me" href="mailto:ghxst0x1@proton.me" ><img align="center" src="https://cdn-icons-png.flaticon.com/512/3375/3375406.png" alt="ghxst0x1@proton.me" height="30" width="30" /></a>
-<a title="Instagram" href="https://instagram.com/kn1ghtblood" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kn1ghtblood" height="30" width="40" /></a>
-<a title="GitHub" href="https://github.com/ghxst0x1" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kn1ghtblood" height="30" width="40" /></a>
-<a title="LinkedIn" href="https://linkedin.com/in/karthikr0x1/" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikr0x1/" height="30" width="40" /></a>
-<a title="LeetCode" href="https://www.leetcode.com/holyghxst" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="holyghxst" height="30" width="40" /></a>
-<a title="Discord" href="https://discordapp.com/users/389076071363903489" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/389076071363903489" height="30" width="40" /></a>
-</p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=holyghxst&label=Profile%20views&color=0e75b6&style=flat" alt="holyghxst" /> </p>
